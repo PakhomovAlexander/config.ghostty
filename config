@@ -7,3 +7,5 @@ background-blur-radius = 20
 font-family = FiraCodeRegular
 
 shell-integration = fish
+macos-titlebar-style = hidden
+macos-option-as-alt = true
